@@ -1,0 +1,1 @@
+Crawling means extraction of data required from a website. Data can be images, text, links etc.There are certain tools for image scraping and using which we can extract images from a website. We can also use browser extensions to extract images.
